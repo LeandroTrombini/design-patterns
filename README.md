@@ -10,6 +10,7 @@ This repository contains examples of design patterns implemented in Ruby.
 4. Template method
 5. Strategy
 6. Adapter
+7. Decorator
 
 
 ## Como usar
