@@ -5,6 +5,9 @@ This repository contains examples of design patterns implemented in Ruby.
 ## Patterns
 
 1. Factory
+2. Abstract factory
+3. Singleton
+4. Template method
 
 
 ## Como usar
